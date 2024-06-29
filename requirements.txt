@@ -1,0 +1,7 @@
+Flask
+tensorflow
+google-cloud-storage
+google-cloud-firestore
+pillow
+numpy
+python-dotenv
